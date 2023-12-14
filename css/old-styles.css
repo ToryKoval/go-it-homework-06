@@ -504,7 +504,7 @@ body {
     margin-right: 120px;
 }
 
-.footer-right {
+ .social-footer-container {
     display: block;
 }
 
@@ -534,22 +534,6 @@ body {
     color: #f4f4fd;
 }
 
-/*.footer-title {
-    color: #fff;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    margin-bottom: 16px;
-    margin-top: 0;
-}*/
-
-/*.footer-list {
-    display: flex;
-    gap: 16px;
-}
-*/
 
 .footer-box-logo {
     margin-right: 120px;
@@ -680,9 +664,11 @@ body {
     background-color: #404bbf;
 }
 
-.button-icon-telegram {
+.footer-subscribe-button {
     margin-left: 16px;
 }
+
+
 
 /* Backdrop styles */
 
